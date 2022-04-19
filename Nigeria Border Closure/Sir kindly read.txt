@@ -1,0 +1,9 @@
+Scraping the web with terms such as "Border closure in Nigeria", 
+Twitter and Nairaland(largest Nigerian forum) was scrapped, 
+NairalandBorderClosure for Nairaland and twitterOpsBC for twitter 
+were collected.
+Wordclouds were generated for each dataset to show the most occuring 
+words or terms, words like 'â', 'nigeria', 'nigerian', 'border', 
+'borders','closure', 'closures' 'will', 'still','said', 'country', 
+'https', 's', 'now', 'amp', 't', 'co', 'u', 'every', 'closed', 'one',
+so as to gain a better insight.
